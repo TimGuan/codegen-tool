@@ -12,7 +12,6 @@
 .settings
 .idea
 **/build/
-**/bin/
 **/debug/
 **/target/
 # Numerous always-ignore extensions
